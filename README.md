@@ -16,4 +16,4 @@ To run the sample
 python ./captcha_solver.py
 ```
 
-Email: swami.ganesh@proton.me
+Email: ganesh.swami@outlook.in
